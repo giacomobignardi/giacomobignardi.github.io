@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/your_site_url_address/posts/creating-a-new-theme/</loc>
+    <loc>/posts/creating-a-new-theme/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/your_site_url_address/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/your_site_url_address/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/your_site_url_address/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/your_site_url_address/tags/art/</loc>
+    <loc>/tags/art/</loc>
   </url>
   
   <url>
-    <loc>/your_site_url_address/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/your_site_url_address/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/your_site_url_address/tags/science/</loc>
+    <loc>/tags/science/</loc>
   </url>
   
   <url>
-    <loc>/your_site_url_address/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>/your_site_url_address/post/untitled/</loc>
+    <loc>/post/untitled/</loc>
   </url>
   
 </urlset>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on Giacomo Bignardi</title>
-    <link>/your_site_url_address/about/</link>
+    <link>/about/</link>
     <description>Recent content in CV on Giacomo Bignardi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/your_site_url_address/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

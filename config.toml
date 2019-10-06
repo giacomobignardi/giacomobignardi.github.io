@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "wizardly-tesla-9bc431.netlify.com"
+baseurl = "https://wizardly-tesla-9bc431.netlify.com"
 languageCode = "en"
 title = "Giacomo Bignardi"
 theme = "hugo-theme-cactus-plus"
