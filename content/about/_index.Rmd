@@ -46,9 +46,11 @@ Here you have a glimpse to what is importatnish (pinned tweet) for me at the mom
 *Internship*: [NTR](https://tweelingenregister.vu.nl/), Dept.of Biological Psychology, VU Amsterdam
 
 *Extra*: 
+<br>~ [One day workshop](https://www.vam.ac.uk/event/ZRv9A9Qn/data-visualisation-may-2019)
+on data vizualization: Visual Storytelling with [Valentina D'Efilippo](https://twitter.com/defilippovale?lang=en)
 <br>~ [Conference](https://www.vsac2019.org/) VSAC 2019 (Leuven) 
 <br>~ [Master Class](http://www.mcg.uva.nl/musicality2019/masterclass.html) on Musicality and Genomics, organized by the the Royal Netherlands Academy of Arts and Sciences (KNAW, Amsterdam) 
-<br>~ Workshop in Philosophy of Art for Cognitive Scientist, by Joreg Fingerhut (Goldsmiths, London)
+<br>~ One day workshop in Philosophy of Art for Cognitive Scientist, by Joreg Fingerhut (Goldsmiths, London)
 <br>~ [Summer School](https://vds-cobene.univie.ac.at/activities/summer-school-neuroaesthetics/) in Neuroaesthetics, Vienna Doctoral School of Cognition, Behaviour and Neuroscience (UCL/City/Goldsmiths/Senate House, London)
 <br>~ [Editor and creator](https://www.neuroaestheticsandcreativity.net/)
 of the student website neuroaestheticsandcreativity.net
@@ -195,7 +197,7 @@ SKILLS \ref{fig:figs} *a Chord Diagram that should kind of represent my skills. 
 <p style="text-align:left;">
     <strong>ERASMUS Plus</strong>
     <span style="float:right;"> 
-    September 2016 - June 2018
+    2016 - 2017
     </span>
 <br>SCHOLARSHIP</br>
 </p>

@@ -257,8 +257,26 @@ a, #title, #post-list a:hover, #title:hover {
 p a {
      color: #666666;
 }
+/*p a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+    color: #666666;
+}*/
 
-p a:hover {
+/*p a:hover::before {
+  display: underline;
+}*/
+
+/*p a:hover, a:focus {
+    background-size: 100% 2px;
+    color: #FF7034;
+}*/
+
+ p a:hover {
    color: #FF7034;
 }
 
