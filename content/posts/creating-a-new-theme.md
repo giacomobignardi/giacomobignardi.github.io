@@ -3,10 +3,7 @@
   date: "2019-10-01"
   Author: "Giacomo Bignardi"
   menu: main
-  tags:
-- Art
-- Creative Computing
-- Genetic
+  tags: ["Art","genetic", "Generative Art"]
 description: A generative Art about freedom, constrictions and probailistic propensities and how they emerge from the relationship between coded information and complicated environments.
 
 ---

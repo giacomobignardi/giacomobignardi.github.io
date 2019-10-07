@@ -6,25 +6,35 @@
     <description>Recent content in Tags on Giacomo Bignardi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>art</title>
+      <title>Art</title>
       <link>/tags/art/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>science</title>
-      <link>/tags/science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Generative Art</title>
+      <link>/tags/generative-art/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/science/</guid>
+      <guid>/tags/generative-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic</title>
+      <link>/tags/genetic/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic/</guid>
       <description></description>
     </item>
     
